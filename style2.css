@@ -1,0 +1,24 @@
+body {
+background-image: url("https://images.unsplash.com/photo-1532469342119-c1ac6eb66912?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+font-family: "Times New Roman", Times, serif;}
+		h1 {color:black; text-align:center; background-color: white;}
+		h2 {color:Black; font-size: 60px}
+		table {border: 3px; padding:10px}
+		th {color:Black; text-align:left; font-size: 50px;}
+		td {color:Black; text-align:left; font-size: 30px;}
+		a {color:black; background-color: white;}
+		p { font-size: 20px;}
+		#tableheader {color:green; font-weight: bolder; font-style: italic; background-color:red;}
+		h5 {text-align:left}
+		li {font-color:black; font-size: 30px;}
+		h3 {color:blue}
+		h6 {color:white; text-align:right; background-color: black;}
+		img {border: 1px solid: black;
+  		border-radius: 4px;
+   		padding: 5px;
+   		width: 350px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		border: 4px solid: black;}
+img:hover { box-shadow: 0 0 2px 1px black;}
